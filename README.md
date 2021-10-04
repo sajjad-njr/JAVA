@@ -1,4 +1,6 @@
 # JAVA
+This ripo all about (CSE-2213 SM-21 OOP) ,wehre I am trying to upload that gain throught out the season with help of honourable course teacher . Most of tasks
+are assignment and class prectice ,though it is one sort of basic OOP course and first time using Java Language .
 # Assignment-1 Pdf 
 [2012020299_Sajjad.pdf](https://github.com/sajjad-njr/JAVA/files/6904234/2012020299_Sajjad.pdf)
 # Assignment-2 Pdf 
